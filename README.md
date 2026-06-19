@@ -1,0 +1,1 @@
+Wildlife activity at the photohide analyses the appearances of different wild life at the photographic hide. This aims to understand the  most common animals at the watering hole as well as their most common appearance times in terms of hours weeks and months.
